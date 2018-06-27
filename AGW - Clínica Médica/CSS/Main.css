@@ -1,0 +1,110 @@
+body {
+	text-align: center;
+	background-color: #f2f2f2;
+}
+
+#container-login {
+	background-color: #e6e6e6;
+}
+
+#logo-background {
+	background-color: hsl(2, 57%, 40%);
+	background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+	repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+	repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+}
+
+#borda-pos-titulo {
+	border-bottom: 25px groove black;
+}
+
+h1 {
+	color: white;
+	font-family: Georgia;
+	font-size: 64px;
+	margin-bottom: -20px;
+}
+
+h2 {
+	color: #e60000;
+}
+
+.logo-letra-inicial {
+	color: #e60000;
+}
+
+#logo-bootstrap {
+	color: white;
+	font-family: Tahoma;
+	font-size: 64px;
+}
+
+.fa-heartbeat {
+	font-size: 48px;
+	color: #e60000;
+}
+
+ul.nav {
+	width: 100%;
+}
+
+a.nav-link {
+	color: black;
+	font-size: 20px;
+}
+
+a.nav-link.active {
+	font-weight: bold;
+}
+
+.carousel-control-prev:hover, 
+.carousel-control-next:hover {
+	background-color: black;
+	opacity: 0.25;
+}
+
+#esqueci-senha {
+	font-size: 22px;
+	color: red;
+}
+
+.fa-social {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-social:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+	background: #dd4b39;
+	color: white;
+}
+
+.fa-youtube {
+	background: #bb0000;
+	color: white;
+}
+
+.fa-instagram {
+	background: #125688;
+	color: white;
+}
+
+footer {
+	border-top: 5px dotted black;
+}
